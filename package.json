@@ -1,0 +1,26 @@
+{
+  "name": "rocketseat-frontend",
+  "version": "1.0.0",
+  "description": "frontend do bootcamp nivel 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dariogondim/rocketseat-frontend.git"
+  },
+  "keywords": [
+    "reactjs",
+    "frontend",
+    "web",
+    "bootcamp",
+    "rocketseat"
+  ],
+  "author": "Dario Gondim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dariogondim/rocketseat-frontend/issues"
+  },
+  "homepage": "https://github.com/dariogondim/rocketseat-frontend#readme"
+}
