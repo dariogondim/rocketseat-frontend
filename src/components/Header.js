@@ -1,12 +1,12 @@
 import React from 'react'
 import { render } from 'react-dom'
 
-export default function Header({ title,children }) {
+export default function Header({ title }) {
+
     return (
         <header>
             <h1>
-                {title}
-                {children}
+                {title}                
             </h1>
         </header>
     )
