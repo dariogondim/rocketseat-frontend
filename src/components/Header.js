@@ -1,11 +1,12 @@
 import React from 'react'
 import { render } from 'react-dom'
 
-export default function Header() {
+export default function Header({ title,children }) {
     return (
         <header>
             <h1>
-                ReactJS
+                {title}
+                {children}
             </h1>
         </header>
     )
